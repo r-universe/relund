@@ -8,8 +8,3 @@
 	url = https://github.com/relund/gmoip
 	shallow = true
 	registered = true
-[submodule "MDP2"]
-	path = MDP2
-	url = https://github.com/relund/mdp
-	shallow = true
-	registered = true

@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MDP2"]
+	path = MDP2
+	url = https://github.com/relund/mdp
 [submodule "gMOIP"]
 	path = gMOIP
 	url = https://github.com/relund/gmoip
